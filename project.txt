@@ -1,1 +1,7 @@
 Online Grocery Delivery System
+
+Version 2 includes:
+- Customer Registration
+- Product Search
+- Online Ordering
+- Payment Processing
